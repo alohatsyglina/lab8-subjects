@@ -1,0 +1,13 @@
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.pdb
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.addForm.resources
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.mainForm.resources
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.deleteForm.resources
+C:\Users\Пользователь\Desktop\учеба\#\8\lab8\lab8\lab8\obj\Debug\lab8.searchForm.resources
